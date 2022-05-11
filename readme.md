@@ -1,6 +1,6 @@
 # PrestaShop to Shopify 
 ## Overview
-Cart2Cart Shopping Cart Migration service is a perfect tool to move your store’s data from [PrestaShop to Shopify](https://www.shopping-cart-migration.com/shopping-cart-migration-options/1072-prestashop-to-shopify-migration?utm_source=github-articles&utm_medium=articles&utm_term=prestashop-shopify&utm_campaign=github.com) swiftly and securely. The data transfer takes only up to 5 minutes to set up and guarantees 100% uptime of your current PrestaShop store. Thus, you’ll be able to move your PrestaShop store entities, including products, orders, customers, etc. to Shopify in a totally automated way.
+Cart2Cart Shopping Cart Migration service is a perfect tool to move your store’s data from [PrestaShop to Shopify](https://www.shopping-cart-migration.com/shopping-cart-migration-options/1072-prestashop-to-shopify-migration?utm_source=github.com&utm_medium=referral&utm_term=prestashop-shopify&utm_campaign=optimized-page) swiftly and securely. The data transfer takes only up to 5 minutes to set up and guarantees 100% uptime of your current PrestaShop store. Thus, you’ll be able to move your PrestaShop store entities, including products, orders, customers, etc. to Shopify in a totally automated way.
 ## What Data Can be Migrated?
 Cart2Cart will assist you in moving the following data entities from PrestaShop to Shopify:
 * **_Products_** (Name, SKU, Full Description, Images in Description, Status, Manufacturer, Price, Special Price, URL, Meta Title, Meta Description, Weight, Product Tags, UPC, Variants, Base Image, Additional Images, Quantity);
@@ -14,7 +14,7 @@ Cart2Cart will assist you in moving the following data entities from PrestaShop 
 * **_Blog Posts_** (Full Description, Short Description, SEO URL, Blog IDs, Comments, Images);
 * **_Multistore_**.
  
-To get the full list of transferable entities, please check the table [here](https://www.shopping-cart-migration.com/shopping-cart-migration-options/1072-prestashop-to-shopify-migration?utm_source=github-articles&utm_medium=articles&utm_term=prestashop-shopify&utm_campaign=github.com).
+To get the full list of transferable entities, please check the table [here](https://www.shopping-cart-migration.com/shopping-cart-migration-options/1072-prestashop-to-shopify-migration?utm_source=github.com&utm_medium=referral&utm_term=prestashop-shopify&utm_campaign=optimized-page).
 ## What Are the Additional Migration Options?
 Users have the ability to choose some of the extra migration options to make the replatforming even more seamless and trouble-free:
 * _Clear current data on Target Store before Migration,_
@@ -32,9 +32,9 @@ Users have the ability to choose some of the extra migration options to make the
 * **Start Free Demo** to see how your PrestaShop store will look on the Shopify platform. You can move a limited number of data entities just within 30 minutes.  
 * **Launch the Full migration** of your store from PrestaShop to Shopify.
 
-Watch our [video tutorial](https://youtu.be/FijuHyZpsPA?utm_source=github-articles&utm_medium=articles&utm_term=prestashop-shopify&utm_campaign=github.com) to see how easy it is to automatically migrate from PrestaShop to Shopify with the help of the Cart2Cart migration tool.
+Watch our [video tutorial](https://youtu.be/FijuHyZpsPA?utm_source=github.com&utm_medium=referral&utm_term=prestashop-shopify&utm_campaign=optimized-page) to see how easy it is to automatically migrate from PrestaShop to Shopify with the help of the Cart2Cart migration tool.
  
-Check the detailed [guide on PrestaShop to Shopify migration](https://www.shopping-cart-migration.com/carts-reviews/shopify/11982-how-to-migrate-prestashop-to-shopify?utm_source=github-articles&utm_medium=articles&utm_term=prestashop-shopify&utm_campaign=github.com). 
+Check the detailed [guide on PrestaShop to Shopify migration](https://www.shopping-cart-migration.com/carts-reviews/shopify/11982-how-to-migrate-prestashop-to-shopify?utm_source=github.com&utm_medium=referral&utm_term=prestashop-shopify&utm_campaign=optimized-page). 
 ## Why Choose Cart2Cart?
 * **Simple 4-step migration** that will save your time and effort.
 * **No store’s downtime.** Your PrestaShop store will remain active during the replatforming process.
@@ -42,4 +42,4 @@ Check the detailed [guide on PrestaShop to Shopify migration](https://www.shoppi
 * **24/7 customer support** via live chat, phone, or ticket assistance.
 * **Flexible pricing policy.** The total migration cost depends on the amount of data you move to Shopify and the additional options you select.   
 * **Free demo available.** Move a limited number of data from PrestaShop to Shopify just within 30 minutes. No risk involved, no credit card required. 
-* **Extensive [FAQ section](https://www.shopping-cart-migration.com/faq/22-shopify?utm_source=github-articles&utm_medium=articles&utm_term=prestashop-shopify&utm_campaign=github.com)** that provides customers with the answers to the most common questions concerning Shopify migration.
+* **Extensive [FAQ section](https://www.shopping-cart-migration.com/faq/22-shopify?utm_source=github.com&utm_medium=referral&utm_term=prestashop-shopify&utm_campaign=optimized-page)** that provides customers with the answers to the most common questions concerning Shopify migration.
